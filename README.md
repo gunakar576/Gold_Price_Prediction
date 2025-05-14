@@ -36,30 +36,30 @@ The dataset includes the following columns:
 - Random Forest Regressor 
 
 # Steps Performed
-**Data Preprocessing**
+- **Data Preprocessing**
 
-Convert dates
+- Convert dates
 
-Handle missing values
+- Handle missing values
 
-Feature engineering
+- Feature engineering
 
-**Exploratory Data Analysis (EDA)**
+- **Exploratory Data Analysis (EDA)**
 
-Correlation matrix
+- Correlation matrix
 
 
 
-**Model Training and Evaluation**
+- **Model Training and Evaluation**
 
-Train-test split
+- Train-test split
 
-Fit models and evaluate
+- Fit models and evaluate
 
-Plot predictions vs actual
+- Plot predictions vs actual
 
-Final Prediction
+- Final Prediction
 
-Use the best model for prediction
+- Use the best model for prediction
 
-Visualize future gold price trends
+- Visualize future gold price trends
