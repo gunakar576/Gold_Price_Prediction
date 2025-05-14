@@ -44,19 +44,17 @@ Handle missing values
 
 Feature engineering
 
-Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)**
 
 Correlation matrix
 
-Line plots, histograms
 
-Trend and moving averages
 
-Model Training and Evaluation
+**Model Training and Evaluation**
 
 Train-test split
 
-Fit models and evaluate using RMSE, MAE, R²
+Fit models and evaluate
 
 Plot predictions vs actual
 
